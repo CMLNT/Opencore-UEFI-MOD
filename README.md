@@ -1,0 +1,3 @@
+＃Opencore-UEFI-MOD
+HP Z6 G4 工作站
+Gold 6139 5700XT OC5.5

@@ -19,6 +19,5 @@ www.cmlnt.com QQ：404535691 mail:admin@cmlnt.com<br>
 
 【Kexts Update】
 ----
-Intel蓝牙固件上传[Github](https://github.com/zxystd/IntelBluetoothFirmware)
-
-安卓手机USB驱动[github](https://github.com/jwise/HoRNDIS/releases)
+* Intel蓝牙固件上传[Github](https://github.com/zxystd/IntelBluetoothFirmware)
+* 安卓手机USB驱动[Github](https://github.com/jwise/HoRNDIS/releases)

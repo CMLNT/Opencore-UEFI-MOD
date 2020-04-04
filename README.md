@@ -8,7 +8,7 @@ www.cmlnt.com QQ：404535691 mail:admin@cmlnt.com<br>
 
 * HP Z6 G4 6139|64|W5700X
 * XPS 9350 i5-6200U 摄像头只能用一次问题，睡眠已修复
-
+* MPG-Z390-GAMING-PRO-CARBON 99900K 核显DP 
 
 
 
@@ -19,4 +19,5 @@ www.cmlnt.com QQ：404535691 mail:admin@cmlnt.com<br>
 
 【Kexts Update】
 ----
-Intel蓝牙固件上传[Github](https://github.com/zxystd/IntelBluetoothFirmware)
+* Intel蓝牙固件上传[Github](https://github.com/zxystd/IntelBluetoothFirmware)
+* 安卓手机USB驱动[Github](https://github.com/jwise/HoRNDIS/releases)

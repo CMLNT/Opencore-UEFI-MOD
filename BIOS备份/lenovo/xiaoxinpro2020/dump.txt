@@ -1,0 +1,47 @@
+Vendor: Insyde
+========================================
+DVMT Pre-Allocated: 0x107
+   0M              0x0            
+   32M             0x1            
+   64M             0x2            
+   4M              0xF0           
+   8M              0xF1           
+   12M             0xF2           
+   16M             0xF3           
+   20M             0xF4           
+   24M             0xF5           
+   28M             0xF6           
+   32M/F7          0xF7           
+   36M             0xF8           
+   40M             0xF9           
+   44M             0xFA           
+   48M             0xFB           
+   52M             0xFC           
+   56M             0xFD           
+   60M             0xFE           
+========================================
+DVMT Total Gfx Mem: 0x108
+   128M            0x1            
+   256M            0x2            
+   MAX             0x3            
+========================================
+2 items found, 2 valid
+
+
+Vendor: Insyde
+========================================
+CFG Lock: 0x3E
+   Disabled        0x0            
+   Enabled         0x1 (default)  
+========================================
+1 items found, 1 valid
+
+
+
+
+
+  setup_var 0x4de 0x00  // Disable CFG Lock
+  setup_var 0x785 0x06  // Increase DVMT pre-allocated size to 192M For FHD version, it's also recommended setting to 192M
+  setup_var 0x786 0x03  // Increase CFG Memory to maximum
+  setup_var 0x454 0x01	// Security level - No Security
+  setup_var 0x44C 0x01	// Thunderbolt Usb Support-Enabled 
